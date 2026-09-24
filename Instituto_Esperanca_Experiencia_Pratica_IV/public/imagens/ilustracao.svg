@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+<title id="title">Ilustração de pessoas colaborando</title>
+<desc id="desc">Ilustração abstrata para representar colaboração comunitária.</desc>
+<rect width="800" height="500" rx="32" fill="#eef6f8"/>
+<circle cx="220" cy="235" r="85" fill="#176b87"/>
+<circle cx="400" cy="180" r="85" fill="#f2b84b"/>
+<circle cx="580" cy="235" r="85" fill="#0c4d63"/>
+<path d="M160 350c40-75 120-75 160 0M340 295c40-75 120-75 160 0M520 350c40-75 120-75 160 0" fill="none" stroke="#18323f" stroke-width="18" stroke-linecap="round"/>
+<path d="M330 245h140" stroke="#fff" stroke-width="16" stroke-linecap="round"/>
+</svg>
