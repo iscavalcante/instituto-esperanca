@@ -63,3 +63,24 @@ Entre os recursos implementados estão:
 - link para pular diretamente ao conteúdo principal;
 - modo de alto contraste;
 - mensagens de feedback acessíveis.
+
+## Performance e otimização
+
+O projeto foi preparado para ambiente de produção com foco na redução do tempo de carregamento e no uso eficiente dos recursos.
+
+As principais práticas adotadas foram:
+
+- utilização de imagens em formato WebP para reduzir o tamanho dos arquivos;
+- manutenção de imagens JPG como alternativa de compatibilidade;
+- carregamento otimizado dos recursos estáticos;
+- organização modular dos arquivos CSS e JavaScript;
+- preparação do projeto para minificação durante o processo de build;
+- utilização de Vite para geração da versão de produção;
+- estrutura responsiva para diferentes tamanhos de tela;
+- redução de código desnecessário e melhor organização dos módulos.
+
+A versão de produção pode ser gerada através do comando:
+
+`npm run build`
+
+O processo gera os arquivos otimizados para publicação, reduzindo o tamanho dos recursos e melhorando o desempenho da aplicação.
