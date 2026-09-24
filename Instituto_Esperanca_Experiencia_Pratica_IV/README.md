@@ -1,3 +1,4 @@
+
 # Instituto Esperança — Experiência Prática IV
 
 Projeto acadêmico de Desenvolvimento Front-End que simula a presença digital de uma ONG. A quarta etapa consolida HTML, CSS e JavaScript das experiências anteriores com versionamento, acessibilidade WCAG 2.1 AA, otimização e preparação para deploy.
@@ -46,3 +47,19 @@ O projeto está preparado para hospedagem estática. Para GitHub Pages, publique
 
 ## Manutenção
 Edite código em `src/`, conteúdos estáticos em `public/html/` e imagens em `public/imagens/`. Execute nova build e testes antes de cada release.
+
+## Acessibilidade
+
+O projeto foi desenvolvido considerando as diretrizes WCAG 2.1 Nível AA.
+
+Entre os recursos implementados estão:
+
+- HTML semântico e landmarks;
+- navegação completa por teclado;
+- foco visível nos elementos interativos;
+- textos alternativos nas imagens;
+- labels associados aos campos dos formulários;
+- atributos WAI-ARIA em componentes dinâmicos;
+- link para pular diretamente ao conteúdo principal;
+- modo de alto contraste;
+- mensagens de feedback acessíveis.
